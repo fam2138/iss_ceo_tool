@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<wmc__TEOSiteMgr RevNumber="1">
+	<EOSites>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456729.10047454" Format="1" Ident="072-001" LastModifiedJD="2456729.10047454" Nomenclature="Missing Malaysia Airlines Flight" Notes="GMT: 08:06:39; Lens(es): 400; AOS: 10.2N,94.0E; International Disaster Charter: Look nadir and left of track to acquire long lens imagery of the strait. Malaysia Airlines Flight MH370 disappeared from radar on GMT Day 066 and has yet to be found despite a multi-national search.  The aircraft departed from Kuala Lumpur at 16:41 GMT and was scheduled to arrive in Beijing on the following day.  An international search began for the aircraft in the South China Sea, the last known location of the jet, but four days later no sign of the aircraft has been found. The search area has since been expanded to the Malacca Strait, on the western coast of Malaysia (Figures 1 and 2).  Both naval vessels and aircraft from at least ten different countries are participating in the search.  Satellite imagery is now being employed to search for any evidence of the plane, both before and after it disappeared." ReferenceURL="">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.109083" lon="1.738784"/>
+			<PerimeterLocus>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.043633" lon="1.692969"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.043633" lon="1.850049"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.174533" lon="1.788962"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.174533" lon="1.623156"/>
+			</PerimeterLocus>
+		</wmc__TEOSite>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456729.10047454" Format="1" Ident="072-002" LastModifiedJD="2456729.10047454" Nomenclature="Brussels, Belgium" Notes="GMT: 09:21:01; Lens(es): 400; AOS: 51.5N,2.2E; Crew Request:  Look slightly right of track for Brussels, with minimal cloud coverage forecasted.  This capital city of nearly two million is located in central Belgium about 70 miles inland from the North Sea (Figure 3).  You have good weather pass in mid-morning light with your approach from the west-northwest.  At this time as you cross the English Channel, begin a mapping strip to the right of track to try and acquire the low-contrast urban feature (Figure 4).  Closest approach lat: 51.25, lon: 4.42 at 09:21:24." ReferenceURL="">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.888373" lon="0.076794"/>
+			<PerimeterLocus/>
+		</wmc__TEOSite>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456729.10047454" Format="1" Ident="072-003" LastModifiedJD="2456729.10047454" Nomenclature="Vienna, Austria" Notes="GMT: 09:23:19; Lens(es): 400; AOS: 49.5N,15.3E; Crew Request: Look right of track to acquire imagery of Vienna under clear skies.  You have a late morning pass for this urban target in clear weather with the city right of track (Figure 5). This famous European capital of almost 2 million lies on a great arc of the Danube River (Figure 6). At this time, look for the Danube and other visual cues and try to acquire the entire city within a single frame.  Closest approach lat: 49.25, lon: 16.63 at 09:23:34." ReferenceURL="">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.841249" lon="0.286234"/>
+			<PerimeterLocus/>
+		</wmc__TEOSite>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456729.10047454" Format="1" Ident="072-004" LastModifiedJD="2456729.10047454" Nomenclature="Nice, France" Notes="GMT: 10:58:58; Lens(es): 400, 800; AOS: 45.1N,6.2E; Crew Request: Look right of track to acquire long lens shots of this coastal city. You have a midday pass over the city of Nice, France with minimal cloud cover over the area (Figure 7). This beautiful coastal city is one of the most visited cities, receiving over 4 million tourists every year. Nice is one of several cities that hug the Mediterranean coastline, but a helpful hint to find it is its airport, which juts out over the water (Figure 8, arrow). Closest approach lat: 44.52, lon: 7.55 at 10:59:16." ReferenceURL="">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.762709" lon="0.125664"/>
+			<PerimeterLocus/>
+		</wmc__TEOSite>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456729.10047454" Format="1" Ident="072-005" LastModifiedJD="2456729.10047454" Nomenclature="Mount Vesuvius, Italy" Notes="GMT: 11:00:33; Lens(es): 180, 400; AOS: 41.9N,13.0E; Crew Request: Look slightly right of track to acquire long lens shots of Mt. Vesuvius. This 4,203-ft stratovolcano of Pompeii fame remains a threat to the nearby urban area of Naples in southern Italy.  At this time as you track southeastward, look slightly right of track for this prominent, isolated volcanic peak (Figures 9 and 10). Closest approach lat: 41.05, lon: 14.57 at 11:00:56." ReferenceURL="">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.712094" lon="0.251327"/>
+			<PerimeterLocus/>
+		</wmc__TEOSite>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456729.10047454" Format="1" Ident="072-006" LastModifiedJD="2456729.10047454" Nomenclature="Bodele Depression Dunes, Chad" Notes="GMT: 12:42:19; Lens(es): 400, 800; AOS: 18.0N,17.3E; Science Site: Look nadir and slightly left of track for the target under a mostly clear sky. Dunes, when migrating into a settled area or across infrastructure, can be a major geologic hazard.  A science collaborator in Nevada wishes to study dune migration rates in the Sahara Desert. The Bodelé Depression of Chad is noted as the major dust source area for the Sahara, and probably the world (Figures 11 and 12). Understanding dune migration rates will provide constraints on the dust emission process and enable better prediction of the level of dust emissions from this area. Closest approach lat: 16.80, lon: 18.22 at 12:42:43." ReferenceURL="C:\SpOCApps\WorldMap\Data\Priv\RefInfo\CEO\Bodele_Depression_Dunes_Chad_WM.doc">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.296706" lon="0.322886"/>
+			<PerimeterLocus/>
+		</wmc__TEOSite>
+	</EOSites>
+</wmc__TEOSiteMgr>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<wmc__TEOSiteMgr RevNumber="1">
+	<EOSites>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456744.0844213" Format="1" Ident="088-001" LastModifiedJD="2456744.0844213" Nomenclature="OS: Time-lapse from Africa to Kazakhstan" Notes="GMT: 20:58:25; Lens(es): 8-28; AOS: 24.9N,12.3E; Time-lapse Opportunity: Set the camera up on a bogen arm in the Cupola looking up track for approximately 20-30 minutes at 1-2 second intervals. You have a nighttime pass from northern Africa to northern Kazakhstan, with a good opportunity to see city lights such as Tripoli, Athens, Ankara, Istanbul, and Astana (Figure 1). As you track northeast and approach the dark of the Mediterranean Sea at night, set up the camera with a very short lens in the Cupola with a bogen arm looking up track toward the sea. Let the camera run for approximately 20-25 minutes. Detailed instructions on setting up the camera can be found in Photo/TV procedure 5.404 - D3s Intervalometer Set - Night Sequence." ReferenceURL="">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.434587" lon="0.214675"/>
+			<PerimeterLocus/>
+		</wmc__TEOSite>
+	</EOSites>
+</wmc__TEOSiteMgr>

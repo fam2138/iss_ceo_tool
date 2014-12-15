@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<wmc__TEOSiteMgr RevNumber="1">
+	<EOSites>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456741.09814815" Format="1" Ident="084-001" LastModifiedJD="2456741.09814815" Nomenclature="East Cuba" Notes="GMT: 13:53:33; Lens(es): 400, 800; AOS: 21.2N,75.1W; Science Site: Look nadir and right of track to shoot imagery of the Cuban coastline and agriculture with a long lens. You have a descending pass in midday light with this target area positioned nadir and to the right of track under minimal cloud cover (Figure 1).  Ongoing research at Florida International University is seeking imagery to document and analyze land cover change in this part of Cuba.  At this time, as you track southeastward on the eastern end of Cuba, begin mapping the coastline with a long lens (Figure 2). As a reminder, please do not take imagery with a 400mm or greater from the Cupola because the scratch panes cause artifacts to appear on the image and lose quality." ReferenceURL="C:\SpOCApps\WorldMap\Data\Priv\RefInfo\CEO\East_Cuba_WM.doc">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.353720" lon="-1.327614"/>
+			<PerimeterLocus>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.336849" lon="-1.371829"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.349066" lon="-1.282817"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.375246" lon="-1.328196"/>
+			</PerimeterLocus>
+		</wmc__TEOSite>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456741.09814815" Format="1" Ident="084-002" LastModifiedJD="2456741.09814815" Nomenclature="Mexico City, Mexico" Notes="GMT: 15:26:28; Lens(es): 180; AOS: 20.8N,98.4W; Crew Request: Look nadir for this large metropolitan area, with minimal cloud cover expected.  You have a descending pass over the capital city of Mexico in late morning light (Figure 3). As you track southeast over the interior of central Mexico, look right of track to spot this sprawling city west of the famous Popocatepetl Volcano (Figure 4). Closest approach lat: 20.36, lon: -98.00 at 15:26:37." ReferenceURL="">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.338594" lon="-1.729621"/>
+			<PerimeterLocus/>
+		</wmc__TEOSite>
+	</EOSites>
+</wmc__TEOSiteMgr>

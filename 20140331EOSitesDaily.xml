@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<wmc__TEOSiteMgr RevNumber="1">
+	<EOSites>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456748.0921875" Format="1" Ident="091-001" LastModifiedJD="2456748.0921875" Nomenclature="Osaka, Japan" Notes="GMT: 12:27:15; Lens(es): 180; AOS: 33.5N,134.3E; Crew Request: Look nadir to acquire nighttime imagery of Osaka. You have a nighttime pass over Osaka, with clear weather forecasted over the area. As you track northeast over Japan, look nadir to capture the night lights of Osaka (Figures 1 and 2). Closest approach lat: 34.55, lon: 135.64 at 12:27:39." ReferenceURL="">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="0.605629" lon="2.364921"/>
+			<PerimeterLocus/>
+		</wmc__TEOSite>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456748.0921875" Format="1" Ident="091-002" LastModifiedJD="2456748.0921875" Nomenclature="N. Glaciers-SPIF" Notes="GMT: 16:26:28; Lens(es): 400, 800; AOS: 48.6S,74.8W; Science Site: Look nadir to acquire long lens shots of the northern glaciers of the southern ice fields. The Southern Patagonian Ice Field is located on the Argentine-Chilean border and is the world’s second largest contiguous, extrapolar ice field.  We wish to acquire detailed views of the glaciers on the north end of the Southern Patagonian Ice Field, which is the larger of the two distinguished ice fields (Figures 3 and 4). As you track east-southeast, look nadir to acquire long lens shots of the glaciers. Please acquire this imagery through any window except for the Cupola, due to the scratch panes degrading the imagery." ReferenceURL="C:\SpOCApps\WorldMap\Data\Priv\RefInfo\CEO\N_Glaciers-SPIF_WM.doc">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.846485" lon="-1.282817"/>
+			<PerimeterLocus>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.837758" lon="-1.300270"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.837758" lon="-1.265364"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.855211" lon="-1.265364"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.855211" lon="-1.300270"/>
+			</PerimeterLocus>
+		</wmc__TEOSite>
+		<wmc__TEOSite Category="CEO-Daily" CreatedJD="2456748.0921875" Format="1" Ident="091-003" LastModifiedJD="2456748.0921875" Nomenclature="SW. Glaciers-SPIF" Notes="GMT: 16:26:37; Lens(es): 400, 800; AOS: 48.8S,74.0W; Science Site: Look nadir and right of track to acquire long lens shots of the glaciers. The Southern Patagonian Ice Field is located on the Argentine-Chilean border and is the world’s second largest contiguous, extrapolar ice field.  As you track east-southeast, look right of track to acquire long lens shots of the glaciers surrounding the ice field (Figures 5 and 6). Please acquire this imagery out of any window except for the Cupola, due to the scratch panes degrading the imagery." ReferenceURL="">
+			<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.877028" lon="-1.291544"/>
+			<PerimeterLocus>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.855211" lon="-1.308997"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.855211" lon="-1.274090"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.898845" lon="-1.274090"/>
+				<TGeoCoordsEx alt="0" coordtype="gct_Geodetic" lat="-0.898845" lon="-1.308997"/>
+			</PerimeterLocus>
+		</wmc__TEOSite>
+	</EOSites>
+</wmc__TEOSiteMgr>
